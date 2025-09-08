@@ -13,7 +13,7 @@ import cartRoute from "./Routes/cartRoute.js";
 
 const allowedOrigins = [
   'http://localhost:5173',
-  // 'https://task-manager-nine-sepia.vercel.app'
+  'https://e-commerce-bice-one-40.vercel.app'
 ];
 
 server.use(cors({
